@@ -8,6 +8,8 @@ A simple **React Native** app built with **Expo** to convert **USD to INR** in r
 - Fetches real-time exchange rates using a free API.
 - Simple and clean user interface.
 
+## [Download App](https://expo.dev/accounts/dilkhush9060/projects/currency-convertor/builds/e618db61-c998-4aaf-ac05-d54f56a00587)
+
 ## Install And Run
 
 1. **Clone the repository**
