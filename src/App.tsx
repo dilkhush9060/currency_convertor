@@ -1,8 +1,8 @@
+import { useEffect, useState } from "react";
 import { StatusBar } from "expo-status-bar";
 import { Text, View, TextInput, Pressable } from "react-native";
-import "./global.css";
-import { useEffect, useState } from "react";
 import axios from "axios";
+import "./global.css";
 
 export default function App() {
   const [amount, setAmount] = useState("0");
