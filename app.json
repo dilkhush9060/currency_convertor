@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Currency Convertor",
-    "slug": "currency_convertor",
+    "slug": "currency-convertor",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -32,6 +32,12 @@
           "image": "./assets/splash-icon.png"
         }
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "2b5c3181-57b6-42fa-b269-34fec838a573"
+      }
+    },
+    "owner": "dilkhush9060"
   }
 }
