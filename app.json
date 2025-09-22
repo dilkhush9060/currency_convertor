@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "currency_convertor",
+    "name": "Currency Convertor",
     "slug": "currency_convertor",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -21,10 +21,17 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.anonymous.currency_convertor"
     },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    }
+    "plugins": [
+      [
+        "expo-splash-screen",
+        {
+          "backgroundColor": "#ffffff",
+          "image": "./assets/splash-icon.png"
+        }
+      ]
+    ]
   }
 }
