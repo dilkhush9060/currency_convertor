@@ -33,4 +33,4 @@ bun start
 
 ## Screenshots
 
-![Screenshot](screenshot.png)
+![Screenshot](assets/1.jpg)
