@@ -25,7 +25,7 @@ cd currency_convertor
 bun install
 ```
 
-2. **Run App**
+3. **Run App**
 
 ```bash
 bun start
